@@ -13,7 +13,7 @@
 ## 配置
 
 1. 在 Alfred 中，找到 Mastodon Toot Workflow，点击右上角的 `[x]` 按钮进入 Workflow 的设置。
-2. 在 "Variables" 选项卡中，填入你的 Mastodon 实例的访问令牌 (`access_token`) 和实例 URL (`api_base_url`)。
+2. 在 "Variables" 选项卡中，填入你的 Mastodon 实例的访问令牌 (`MASTODON_TOKEN`) 和实例 URL (`MASTODON_URL`)。
 
 ## 使用
 
