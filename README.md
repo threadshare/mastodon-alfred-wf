@@ -1,4 +1,3 @@
-# mastodon-alfred-wf
 ---
 
 # Mastodon Toot Alfred Workflow
